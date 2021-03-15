@@ -1,0 +1,8 @@
+{
+  "name": "node-js-initial-task",
+  "version": "0.1.0",
+  "dependencies": {
+    "pg": "^8.5.1",
+    "readline-sync": "^1.4.10"
+  }
+}
